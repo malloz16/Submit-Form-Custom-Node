@@ -1,0 +1,10 @@
+.form-group.required .control-label:after {
+	content: " *";
+	color: red;
+}
+
+#formKeys {
+	display: inline-block;
+	margin-right: 7px;
+	width: 90%;
+}

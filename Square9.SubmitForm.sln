@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square9.SubmitForm", "Square9.SubmitForm.csproj", "{8AF7EBEE-D71E-44D0-88A9-0723726AFF7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AF7EBEE-D71E-44D0-88A9-0723726AFF7A}.Debug|x64.ActiveCfg = Debug|x64
+		{8AF7EBEE-D71E-44D0-88A9-0723726AFF7A}.Debug|x64.Build.0 = Debug|x64
+		{8AF7EBEE-D71E-44D0-88A9-0723726AFF7A}.Release|x64.ActiveCfg = Release|x64
+		{8AF7EBEE-D71E-44D0-88A9-0723726AFF7A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B4A6AB9-0CA2-4A5C-9212-9871D3A36335}
+	EndGlobalSection
+EndGlobal

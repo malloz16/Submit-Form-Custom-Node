@@ -1,0 +1,25 @@
+C:\GlobalCapture\CustomNodes\cache\2da93c51-ab74-40d9-bff0-9f4f894b9247\Custom Node FIles\bootstrap-3.4.1.min.css
+C:\GlobalCapture\CustomNodes\cache\2da93c51-ab74-40d9-bff0-9f4f894b9247\Custom Node FIles\node.html
+C:\GlobalCapture\CustomNodes\cache\2da93c51-ab74-40d9-bff0-9f4f894b9247\Custom Node FIles\styles.css
+C:\GlobalCapture\CustomNodes\cache\2da93c51-ab74-40d9-bff0-9f4f894b9247\Square9.SubmitForm.dll
+C:\GlobalCapture\CustomNodes\cache\2da93c51-ab74-40d9-bff0-9f4f894b9247\Square9.SubmitForm.pdb
+C:\Users\AndrewMallozzi\Downloads\custom-workflow-nodes-feature-SubmitFormNode-SubmitForm\SubmitForm\obj\x64\Debug\Square9.SubmitForm.csproj.CoreCompileInputs.cache
+C:\Users\AndrewMallozzi\Downloads\custom-workflow-nodes-feature-SubmitFormNode-SubmitForm\SubmitForm\obj\x64\Debug\Square9.SubmitForm.csproj.CopyComplete
+C:\Users\AndrewMallozzi\Downloads\custom-workflow-nodes-feature-SubmitFormNode-SubmitForm\SubmitForm\obj\x64\Debug\Square9.SubmitForm.dll
+C:\Users\AndrewMallozzi\Downloads\custom-workflow-nodes-feature-SubmitFormNode-SubmitForm\SubmitForm\obj\x64\Debug\Square9.SubmitForm.pdb
+C:\Users\AndrewMallozzi\Downloads\custom-workflow-nodes-feature-SubmitFormNode-SubmitForm\SubmitForm\obj\x64\Debug\Square9.SubmitForm.csprojAssemblyReference.cache
+C:\Users\AndrewMallozzi\Desktop\output\Custom Node Files\node.html
+C:\Users\AndrewMallozzi\Desktop\output\Custom Node Files\script.js
+C:\Users\AndrewMallozzi\Desktop\output\Custom Node Files\styles.css
+C:\Users\AndrewMallozzi\Desktop\output\Square9.SubmitForm.dll
+C:\Users\AndrewMallozzi\Desktop\output\Square9.SubmitForm.pdb
+C:\Users\AndrewMallozzi\Documents\Custom Nodes\SubmitFormWithAttachments_Node_1\obj\x64\Debug\Square9.SubmitForm.csprojAssemblyReference.cache
+C:\Users\AndrewMallozzi\Documents\Custom Nodes\SubmitFormWithAttachments_Node_1\obj\x64\Debug\Square9.SubmitForm.csproj.CoreCompileInputs.cache
+C:\Users\AndrewMallozzi\Documents\Custom Nodes\SubmitFormWithAttachments_Node_1\obj\x64\Debug\Square9.SubmitForm.csproj.CopyComplete
+C:\Users\AndrewMallozzi\Documents\Custom Nodes\SubmitFormWithAttachments_Node_1\obj\x64\Debug\Square9.SubmitForm.dll
+C:\Users\AndrewMallozzi\Documents\Custom Nodes\SubmitFormWithAttachments_Node_1\obj\x64\Debug\Square9.SubmitForm.pdb
+C:\Users\AndrewMallozzi\Documents\Custom Nodes\OUTPUT\Custom Node Files\node.html
+C:\Users\AndrewMallozzi\Documents\Custom Nodes\OUTPUT\Custom Node Files\script.js
+C:\Users\AndrewMallozzi\Documents\Custom Nodes\OUTPUT\Custom Node Files\styles.css
+C:\Users\AndrewMallozzi\Documents\Custom Nodes\OUTPUT\Square9.SubmitForm.dll
+C:\Users\AndrewMallozzi\Documents\Custom Nodes\OUTPUT\Square9.SubmitForm.pdb
